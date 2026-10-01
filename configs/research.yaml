@@ -1,0 +1,18 @@
+model_name: t5-small
+dataset_name: imdb
+seed: 42
+epochs: 10
+batch_size: 32
+methods:
+  - full_finetuning
+  - soft_prompt
+  - adapter
+  - adapterhub
+  - lora
+
+# Starting point for future controlled experiments.
+# Historical notebook hyperparameters are preserved separately.
+controlled:
+  learning_rate: null
+  max_length: null
+  optimizer_steps: null
