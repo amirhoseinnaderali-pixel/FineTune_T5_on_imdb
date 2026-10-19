@@ -15,7 +15,7 @@ This repository contains code and notebooks for fine-tuning the T5 model using d
 - **03_Adapter.ipynb**: Jupyter notebook implementing fine-tuning with Adapter method.
 - **04_AdapterHub.ipynb**: Jupyter notebook fine-tuning T5 using AdapterHub.
 - **05_LoRA.ipynb**: Jupyter notebook implementing fine-tuning with LoRA method.
-- **402212503_HosnaOyarhoseini_Report.pdf**: Report file providing insights, analysis, and results of the experiments.
+- **402212503_amirhosein_naderali_Report.pdf**: Report file providing insights, analysis, and results of the experiments.
 
 ## Libraries
 - PyTorch
